@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2f/bc/97/2fbc976b4f851bc4ddf08bf871871e30.gif"  />
+<div>
+  <img align="right" height="150" src="https://i.pinimg.com/originals/2f/bc/97/2fbc976b4f851bc4ddf08bf871871e30.gif"  />
+</div>
 
 ###
 
