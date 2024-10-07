@@ -73,8 +73,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nguyentuan1696/nguyentuan1696/output/snake.svg" alt="Snake animation" />
-
-###
