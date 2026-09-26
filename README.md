@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 ! I'm Tuan Nguyen, product builder and developer from Viet Nam.</h2>
+<h2 align="left">Hi 👋 I'm Tuan Nguyen, product builder and developer from Viet Nam.</h2>
 
 ###
 
